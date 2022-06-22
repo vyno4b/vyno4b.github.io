@@ -9281,7 +9281,7 @@ a#variations_clear:before {
         line-height: 1.543em; }
         .pagination .page-numbers li .page-numbers.current,
         .woocommerce-pagination .page-numbers li .page-numbers.current {
-          background-color: #0063d1;
+          background-color: #f5363e;
           color: #fff;
           padding: 0.733em 1.4em;
           border-radius: 5px; }
@@ -12889,7 +12889,7 @@ article.post {
       font-weight: 500; }
     .site-content .landing-v1-slider .slider-1 .caption .sub-title {
       font-weight: 500;
-      color: #00d9e8; }
+      color: #f5363e; }
     .site-content .landing-v1-slider .slider-1 .caption .bottom-caption {
       font-weight: 300;
       color: #4b8fde; }
@@ -21090,11 +21090,11 @@ p.available-on-backorder {
     .widget.widget_price_filter .price_slider .ui-slider-range {
       top: 0px;
       height: 2px;
-      background-color: #0063d1; }
+      background-color: #f5363e; }
     .widget.widget_price_filter .price_slider .ui-slider-handle {
       width: 10px;
       height: 10px;
-      background: #0063d1;
+      background: #f5363e;
       top: -1px; }
       .widget.widget_price_filter .price_slider .ui-slider-handle:last-child {
         margin-left: 0px; }
